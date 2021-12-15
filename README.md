@@ -205,3 +205,153 @@ $Y = \frac{\alpha+I+G-\beta T_0}{1-\beta}$
 计算和上面差不多
 ![](image/2021-12-14-15-29-51.png)
 ![](image/2021-12-14-15-29-58.png)
+
+
+
+
+
+## Chapter 3 : 国民收入的决定： IS-LM模型
+
+
+
+### 产品市场的均衡：IS曲线
+
+产品市场的均衡指产品市场上总供给和总需求相等：
+
+两部门：$C+I = C +S$
+
+三部门：$C+I+G = C+S+T$
+
+当投资取决于利率的时候，不同利率将决定不同的均衡收入。
+
+在两部门经济中,$S=S(Y)$,$I=I(r)$,均衡时候由$I = S$所决定。
+
+#### IS曲线的推导
+
+![image-20211215102144552](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215102144552.png)
+$$
+I = S
+\\I = e-dr
+\\S = -\alpha +(1-\beta)Y
+\\r = \frac{a+e}{d}-\frac{1-\beta}{d}Y
+$$
+
+#### IS曲线的经济含义
+
+1. 在IS曲线上任何点都表示I = S
+2. 总产出和利率之间存在着反向变化的关系
+
+#### IS曲线的移动
+
+- IS曲线的水平移动
+
+  如果利率没有变化，由外生经济变量冲击导致总产出增加，可以视作原有的IS曲线在水平方向上向右移动
+
+- 储蓄增加，均衡收入减少，IS曲线向左方移动
+
+- 投资增加，均衡收入增加，IS曲线向右方移动
+
+### 货币市场的均衡：LM曲线
+
+
+
+凯恩斯经济学的利率决定观点：
+
+- 认为利率由货币供求决定，而不是储蓄和投资共同决定
+- 货币的总供给是外生的
+
+#### 凯恩斯的货币需求理论
+
+需求货币的产生于以下三种不同的冬季
+
+1. 交易动机：交易性货币需求
+2. 谨慎或预防动机：预防性货币需求
+3. 投机冬季：投机性货币需求
+
+
+
+#### 货币需求
+
+交易性货币需求和预防性货币需求主要取决于人们的收入水平Y
+
+投机性货币需求主要取决于利率r
+
+货币总需求L可以概括为：
+
+$L=L_1(Y) + L_2(r)$
+
+线性货币需求函数
+
+$L = L_1(Y)+L_2(r) = kY - hr$
+
+
+
+#### 货币需求曲线
+
+![image-20211215104510317](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215104510317.png)
+
+#### 货币供给
+
+货币供给是一个存量概念，通常认为它是一个外生变量，大小和利率高低五官，因此它是一条平行于利率轴的直线
+
+目前所有的讨论都是实际意义上进行的，实际货币供给 $m = M/P$
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215104831250.png" alt="image-20211215104831250" style="zoom:67%;" />
+
+#### 利率的决定
+
+货币的供给与货币需求的均衡决定市场均衡利率的大小。
+
+- 当利率高于均衡利率的时候，货币需求小于货币供给，人们会把手中的货币换成有价证券，利率下降
+
+因此在现代货币市场中，政府可以根据自己的目的来调控市场利率水平
+
+![image-20211215105315242](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215105315242.png)
+
+#### 货币需求与供给变动
+
+- 对货币的交易需求或投机需求增加时，货币需求曲线就会向右上方移动；货币供给量增加时，货币供给曲线则会向右移动
+- 当利率降到一定程度，货币需求曲线接近水平状态（**流动偏好陷阱**),货币供给曲线的右移并不能使利率下降
+
+
+
+#### LM曲线的推导
+
+![image-20211215105853914](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215105853914.png)
+$$
+\\ L = L_1(Y) + L_2(Y) = kY - hr
+\\ m = M/P
+\\L = m
+\\kY-hr = m
+\\r  = -\frac{m}{h} +\frac{k}{h}Y
+\\E=-\frac{m}{h},F = \frac{k}{h}
+\\r = E+FY
+$$
+
+- LM曲线上任何一点都表示L=M
+- 在LM曲线右边，表示L>M，现行利率水平过低
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215110639805.png" alt="image-20211215110639805" style="zoom: 67%;" />
+
+
+
+### IS-LM模型
+
+$$
+\\I(r)=S(Y)
+\\L_1(Y) + L2(r) = m
+$$
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111051625.png" alt="image-20211215111051625" style="zoom: 67%;" />
+
+
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111249324.png" alt="image-20211215111249324" style="zoom:67%;" />
+
+
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111903679.png" alt="image-20211215111903679" style="zoom:67%;" />
+
+### 总结：凯恩斯理论框架
+
+![image-20211215111854334](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111854334.png)
