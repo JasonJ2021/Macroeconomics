@@ -354,4 +354,363 @@ $$
 
 ### 总结：凯恩斯理论框架
 
-![image-20211215111854334](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111854334.png)
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211215111854334.png" alt="image-20211215111854334" style="zoom:50%;" />
+
+
+
+
+
+## Chapter 4 ： 国民收入的决定：AD-AS模型
+
+
+
+### 1. 总需求曲线及其变动
+
+- 总需求曲线的含义和相关效应
+
+- 总需求曲线的推导
+- 总需求曲线的变动和影响
+
+#### 总需求曲线
+
+总需求(Aggregate Demand , AD)反映了产出需求和价格总水平之间的关系.
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216185631999.png" alt="image-20211216185631999" style="zoom:67%;" />
+
+**实际GDP**取决于四个因素：消费、投资、政府购买和经出口
+
+$Y = C+I+G+NX$
+
+#### 数理推导
+
+- IS曲线方程： $r = \frac{a+e}{d} - \frac{1-\beta}{d}Y$
+- LM曲线方程：$r\stackrel{P\neq1}{\longrightarrow}r = -\frac{1}{h}*\frac{M}{P} + \frac{k}{h}Y$
+
+- IS = LM
+
+  ![image-20211216190733257](/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216190733257.png)
+
+#### 总需求曲线的移动和影响
+
+- 在价格水平不变时
+
+  - 扩张性财政政策：总需求曲线右移
+  - 紧缩性财政政策：总需求曲线左移
+  - 扩张性货币政策：总需求曲线右移
+  - 紧缩性货币政策：总需求曲线左移
+
+  
+
+- 扩张性的货币政策
+
+中央银行增加货币供给，M$\uparrow$
+
+$\Longrightarrow$LM下移动
+
+$\Longrightarrow$r$\downarrow$
+
+$\Longrightarrow$I$\uparrow$
+
+$\Longrightarrow$Y$\uparrow$
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216191656368.png" alt="image-20211216191656368" style="zoom: 33%;" />
+
+- 扩张性的财政政策
+
+政府减少税收或增加政府支出的时候
+
+IS右移
+
+r上升
+
+Y增加
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216191846557.png" alt="image-20211216191846557" style="zoom:33%;" />
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216192230429.png" alt="image-20211216192230429" style="zoom: 50%;" />
+
+
+
+
+
+### 2.总供给曲线及其变动
+
+1. 总供给曲线的含义
+2. 总供给曲线的推导
+3. 总供给曲线的变动和影响
+4. 特殊的总供给曲线及其变动
+5. 总供给曲线不同特征的经济含义
+
+
+
+#### 总供给的概念
+
+- 总供给是指一定时期内整个社会的总产量（总产出），商品和劳务总量的和
+- 总产量取决于技术水平、资本存量和劳动的投入量
+- 总供给函数表示Y与价格水平P之间的函数关系
+- 价格水平影响实际工资，再影响实际就业量，进而影响总产量
+- **货币工资在长期中有伸缩性，但在短期具有下降刚性**，因此AS曲线可以分为：
+  - 长期总供给曲线
+  - 短期总供给曲线
+
+#### 总量生产函数
+
+- 是总投入和总产出之间的关系
+
+如果经济中可能的就业量为**N**，可能的资本量为**K**，那么生产函数
+$$
+Y=f(N,K)
+$$
+短期中，假设资本不变
+$$
+Y = Y（N ，\bar{K})
+$$
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216193145035.png" alt="image-20211216193145035" style="zoom:50%;" />
+
+#### 潜在就业量与潜在产量
+
+- 潜在就业量（充分就业量）
+  - 所有愿意工作的人都能得到工作
+- 潜在产量
+  - <img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216193303202.png" alt="image-20211216193303202" style="zoom:50%;" />
+
+#### 劳动市场的均衡
+
+劳动市场上，劳动需求来源于厂商的引致需求，实际上是实际工资的减函数
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216193517398.png" alt="image-20211216193517398" style="zoom:33%;" />
+
+而劳动供给来源于劳动者在闲暇和收入之间进行的最优选择，它也是实际工资的函数.
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216193657888.png" alt="image-20211216193657888" style="zoom:33%;" />
+
+
+
+劳动市场均衡
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216193740394.png" alt="image-20211216193740394" style="zoom:33%;" />
+
+#### 长期总供给曲线
+
+古典模型对经济长期行为的描述，生产的产出取决于固定的资本和劳动量以及可以获得的技术。古典经济学家认为，**货币工资具有完全的伸缩性**，至少长期必然存在
+
+
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216194630870.png" alt="image-20211216194630870" style="zoom: 50%;" />
+
+- 长期中，实际产出主要由充分就业数量的生产要素锁决定，产出独立于价格水平
+- 旨在影响总需求的财政政策和货币政策，只能使价格水平变化，不能对产量发生影响，
+
+
+
+#### 短期总供给曲线
+
+- 劳动者注重本身劳动的工资，具有**货币幻觉**，厂商注重价格
+- 有货币工资**下降刚性**，只能升高不能降低
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216195213222.png" alt="image-20211216195213222" style="zoom:50%;" />
+
+#### 凯恩斯主义总供给曲线的特殊形式：水平线
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216195346014.png" alt="image-20211216195346014" style="zoom:33%;" />
+
+#### 一般形式的AS曲线
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216195408272.png" alt="image-20211216195408272" style="zoom: 33%;" />
+
+#### 总供给曲线不同特征的经济含义
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216195749046.png" alt="image-20211216195749046" style="zoom:50%;" />
+
+### 总需求与总供给平衡
+
+- 总需求和总供给相等决定均衡的价格总水平和收入
+- <img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216200532295.png" alt="image-20211216200532295" style="zoom:33%;" />
+
+### 宏观均衡的决定：AD-AD模型
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216200657155.png" alt="image-20211216200657155" style="zoom:50%;" />
+
+- 充分就业状态
+  - 总需求增加导致通货膨胀
+- 经济萧条状态
+  - P较低，有失业
+- 经济过热，通货膨胀
+  - P较高，无失业
+- 滞胀
+  - 总需求不变的情况下，总供给减少
+
+#### AD曲线右移：经济增长与通货膨胀
+
+
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216201155081.png" alt="image-20211216201155081" style="zoom:33%;" />
+
+- 消费和投资扩大，政府购买增加、出口增加、货币供给增加
+
+#### AD曲线左移：经济衰退与通货紧缩
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216201253516.png" alt="image-20211216201253516" style="zoom:33%;" />
+
+#### AS曲线右移：创新与增长
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216201419025.png" alt="image-20211216201419025" style="zoom:33%;" />
+
+- 主要原因：技术进步
+- 垂直段在横轴上的投影意味着一个国家在现有资源和技术条件下生产可能性边界。因而AS曲线向右移动意味着一个国家的生产能力增强
+
+#### AS曲线左移：衰退与通货（滞胀）
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216201620179.png" alt="image-20211216201620179" style="zoom:33%;" />
+
+- 主要原因：生产要素价格上升
+
+
+
+### 三个模型之间的关系
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211216201724503.png" alt="image-20211216201724503" style="zoom:50%;" />
+
+## Chapter 5 : 失业、通货膨胀和经济周期
+
+### 失业
+
+失业指处于劳动年龄阶段、具有劳动能力、且具有工作意愿的劳动者找不到工作岗位的情况
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219132156154.png" alt="image-20211219132156154" style="zoom: 50%;" />
+
+#### 衡量失业/就业状况的指标
+
+劳动力人口数=就业人数+失业人数
+
+失业率 = $\frac{失业人数}{劳动力人口数} \times 100\%$
+
+就业率 = $\frac{就业人数}{劳动力人口数} \times 100\%$
+
+劳动力参与率 = $\frac{劳动力人口数}{劳动年龄人口数}\times 100\%$
+
+#### 失业的宏观经济学解释
+
+有效需求：商品总供给和总需求达到均衡状态时候的社会总需求
+
+自然失业率：在没有货币干扰下，劳动力市场和商品市场的自发供求力量发挥作用时，应有的处于平衡状态下的失业率
+
+
+
+#### 奥肯定律
+
+- 失业与产出之间存在反向变动关系
+- $\frac{Y-Y_f}{Y_f} = -\alpha(u-u^*)$
+  - Y代表实际产出，$Y_f$代表潜在产出，
+  - u为实际失业率，$u^*$为自然失业率
+
+
+
+### 通货膨胀
+
+通货膨胀：指经济体在一定时期内价格水平普遍而持续地上升
+
+- 物价总水平上升
+- 持续一段时间
+
+通货膨胀率：
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219133847394.png" alt="image-20211219133847394" style="zoom:50%;" />
+
+P可以使用消费价格指数（CPI），也可以用生产者价格指数（PPI），国内生产总值平减指数（IPD）
+
+GDP平减指数=$\frac{以现期价格计算的GDP}{以基期价格计算的GDP}$
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219134139983.png" alt="image-20211219134139983" style="zoom:50%;" />
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219134149998.png" alt="image-20211219134149998" style="zoom:50%;" />
+
+#### 通货膨胀的类型
+
+按照程度
+
+- 爬行
+- 加速
+- 超速
+
+按照预料程度
+
+- 未预期型
+- 预期型
+
+#### 需求上拉型通货膨胀
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219134858546.png" alt="image-20211219134858546" style="zoom:50%;" />
+
+#### 成本推动型通货膨胀
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219135123551.png" alt="image-20211219135123551" style="zoom:50%;" />
+
+#### 货币主义学派的通货膨胀解释
+
+$MV=PT$
+
+$货币供给量\times货币流通速度=价格水平\times 价格量$
+
+#### 产出效应
+
+- 增加生产和就业
+
+  - 未预期：物价水平的上涨速度高于货币工资的增长速度，生产者获得更多利润，从而增产
+  - 预期：生产者不能增加利润，但会刺激现期消费
+
+- 前提条件
+
+  - 需求拉动
+  - 闲置资源存在
+  - 温和的通货膨胀
+
+  
+
+#### 菲利普斯曲线的三种表达方式
+
+- 原始表达
+- <img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219140249842.png" alt="image-20211219140249842" style="zoom:50%;" />
+
+- 修改的菲利普斯曲线
+
+​	
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219140546015.png" alt="image-20211219140546015" style="zoom:50%;" />
+
+
+
+- 附加预期的菲利普斯曲线（短期菲利普斯曲线）
+
+人们根据最近观察到的通货膨胀率来形成他们的预期
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219141141890.png" alt="image-20211219141141890" style="zoom:50%;" />
+
+因此在短期中，引起通货膨胀的扩张性财政政策和货币政策仍然可以起到减少失业的作用。
+
+
+
+- 长期菲利普斯曲线
+
+是一条垂直的直线，人们预期的通货膨胀率和实际迟早会一致，这时候工人要求改变名义工资以保持实际工资不变，因此维持较高的通货膨胀率不会起到作用。
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219141329498.png" alt="image-20211219141329498" style="zoom:50%;" />
+
+
+
+
+
+#### 停滞膨胀
+
+生产停滞、失业增加和物价水平居高不下，GDP增长缓慢，通货膨胀率一般超过5%
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219141509784.png" alt="image-20211219141509784" style="zoom:50%;" />
+
+<img src="/home/jasonj/Desktop/Macroeconomics/README.assets/image-20211219141535387.png" alt="image-20211219141535387" style="zoom:50%;" />
+
+
+
+
+
+### 经济周期
+
